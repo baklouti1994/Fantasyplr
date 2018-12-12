@@ -1,11 +1,9 @@
 Package: FantasyplR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Fantasy Premier League Data management (Title Case)
 Version: 0.1.0
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Maintainer: The package maintainer <baklouti.marouane@gmail.com>
+Description: Manage all data of Fantasy Premier League Data by gameweek , Players, teams ... 
 Encoding: UTF-8
 LazyData: true
